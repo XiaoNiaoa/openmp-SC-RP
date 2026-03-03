@@ -1,9 +1,9 @@
 
 # South Central Roleplay (open.mp v1.5.8.3079)
 
-This repository is a direct migration of the original South Central Roleplay codebase from the legacy SA-MP version to the open.mp server platform.
+This repository is a direct migration of the original [South Central Roleplay](https://github.com/seanny/SC-RP) from the SA-MP version to the open.mp server platform.
 
-No gameplay or content modifications have been made—the only changes involve fixing numerous compiler warnings, updating plugin versions, and making the necessary code adjustments required by those plugin updates.
+The only changes involve fixing numerous compiler warnings, updating plugin versions, and making the necessary code adjustments required by those plugin updates.
 
 ## Required
 
@@ -18,10 +18,11 @@ No gameplay or content modifications have been made—the only changes involve f
  - [easyDialog](https://github.com/Awsomedude/easyDialog)
  - eSelection: old versions are included.
 
-## Credits
+## Credits (quoted from SA-MP forum):
 
-### Original Development
-
-- Emmet (original script)
-- Apple (scripter)
-- Risky (ran the server)
+ - Scripters - Emmet_, The__/Brasi
+ - Ownership - Risky
+ - Co Owner - Evander
+ - Loyal Staff - PerJon, Supreme, KuffPuff
+ - Thanks to everybody who assisted the server from players to staff.
+ - And I hope everybody who sought to terrorize the server (SizableRapter & The people who released the server) have fun with your life on SA-MP.
